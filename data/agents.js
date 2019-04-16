@@ -7,10 +7,8 @@ module.exports = [
         "state": "WA",
         "zipCode": "98101",
         "tier": 2,
-        "phone":{
-            "primary": "206-221-2345",
-            "mobile": "206-555-3211"
-        }
+        "primary": "206-221-2345",
+        "mobile": "206-555-3211"
     },
     {
         "_id": 321, 
@@ -20,10 +18,8 @@ module.exports = [
         "state": "IL",
         "zipCode": "62701",
         "tier": 1,
-        "phone":{
-            "primary": "217-345-2345",
-            "mobile": "217-987-3211"
-        }
+        "primary": "217-345-2345",
+        "mobile": "217-987-3211"
     },
     {
         "_id": 467, 
@@ -33,10 +29,8 @@ module.exports = [
         "state": "NC",
         "zipCode": "28205",
         "tier": 3,
-        "phone":{
-            "primary": "828-865-2345",
-            "mobile": "828-432-3211"
-        }
+        "primary": "828-865-2345",
+        "mobile": "828-432-3211"
     },
     {
         "_id": 1987, 
@@ -46,9 +40,7 @@ module.exports = [
         "state": "CA",
         "zipCode": "92677",
         "tier": 2,
-        "phone":{
-            "primary": "714-765-2349",
-            "mobile": "714-496-3288"
-        }
+        "primary": "714-765-2349",
+        "mobile": "714-496-3288"        
     }
 ]

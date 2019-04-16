@@ -6,10 +6,8 @@ module.exports = [{
         "balance": "$1,578.40",
         "age": 57,
         "eyeColor": "blue",
-        "name": {
-            "first": "Neva",
-            "last": "Calderon"
-        },
+        "firstName": "Neva",
+        "lastName": "Calderon",
         "company": "ISOTRONIC",
         "email": "neva.calderon@isotronic.info",
         "phone": "+1 (985) 502-2956",
@@ -33,10 +31,8 @@ module.exports = [{
         "balance": "$2,634.30",
         "age": 62,
         "eyeColor": "brown",
-        "name": {
-            "first": "Pope",
-            "last": "Wheeler"
-        },
+        "firstName": "Pope",
+        "lastName": "Wheeler",
         "company": "GEEKOLOGY",
         "email": "pope.wheeler@geekology.co.uk",
         "phone": "+1 (910) 453-2823",
@@ -60,10 +56,8 @@ module.exports = [{
         "balance": "$3,612.71",
         "age": 38,
         "eyeColor": "blue",
-        "name": {
-            "first": "Buchanan",
-            "last": "Barr"
-        },
+        "firstName": "Buchanan",
+        "lastName": "Barr",
         "company": "ZAPPIX",
         "email": "buchanan.barr@zappix.net",
         "phone": "+1 (932) 473-3214",
@@ -87,10 +81,8 @@ module.exports = [{
         "balance": "$2,280.48",
         "age": 45,
         "eyeColor": "blue",
-        "name": {
-            "first": "Dina",
-            "last": "Moreno"
-        },
+        "firstName": "Dina",
+        "lastName": "Moreno",
         "company": "QUONK",
         "email": "dina.moreno@quonk.biz",
         "phone": "+1 (828) 478-3414",
@@ -114,10 +106,8 @@ module.exports = [{
         "balance": "$2,007.45",
         "age": 47,
         "eyeColor": "blue",
-        "name": {
-            "first": "Bush",
-            "last": "Dotson"
-        },
+        "firstName": "Bush",
+        "lastName": "Dotson",
         "company": "FROSNEX",
         "email": "bush.dotson@frosnex.ca",
         "phone": "+1 (982) 593-3989",
@@ -141,10 +131,8 @@ module.exports = [{
         "balance": "$3,482.65",
         "age": 26,
         "eyeColor": "green",
-        "name": {
-            "first": "Ophelia",
-            "last": "Wong"
-        },
+        "firstName": "Ophelia",
+        "lastName": "Wong",
         "company": "CONJURICA",
         "email": "ophelia.wong@conjurica.org",
         "phone": "+1 (961) 502-2651",
@@ -168,10 +156,8 @@ module.exports = [{
         "balance": "$1,429.06",
         "age": 53,
         "eyeColor": "brown",
-        "name": {
-            "first": "Lucas",
-            "last": "Morris"
-        },
+        "firstName": "Lucas",
+        "lastName": "Morris",
         "company": "MUSIX",
         "email": "lucas.morris@musix.biz",
         "phone": "+1 (872) 455-3456",
@@ -195,10 +181,8 @@ module.exports = [{
         "balance": "$1,687.88",
         "age": 30,
         "eyeColor": "green",
-        "name": {
-            "first": "Blair",
-            "last": "Webb"
-        },
+        "firstName": "Blair",
+        "lastName": "Webb",
         "company": "BLANET",
         "email": "blair.webb@blanet.me",
         "phone": "+1 (957) 418-3625",
@@ -222,10 +206,8 @@ module.exports = [{
         "balance": "$2,619.80",
         "age": 46,
         "eyeColor": "green",
-        "name": {
-            "first": "Petersen",
-            "last": "Harper"
-        },
+        "firstName": "Petersen",
+        "lastName": "Harper",
         "company": "PHOTOBIN",
         "email": "petersen.harper@photobin.tv",
         "phone": "+1 (977) 533-3905",
@@ -249,10 +231,8 @@ module.exports = [{
         "balance": "$1,242.51",
         "age": 29,
         "eyeColor": "blue",
-        "name": {
-            "first": "Salas",
-            "last": "Walter"
-        },
+        "firstName": "Salas",
+        "lastName": "Walter",
         "company": "ATOMICA",
         "email": "salas.walter@atomica.us",
         "phone": "+1 (816) 432-2617",
@@ -276,10 +256,8 @@ module.exports = [{
         "balance": "$3,687.96",
         "age": 23,
         "eyeColor": "brown",
-        "name": {
-            "first": "James",
-            "last": "Sullivan"
-        },
+        "firstName": "James",
+        "lastName": "Sullivan",
         "company": "PERKLE",
         "email": "james.sullivan@perkle.com",
         "phone": "+1 (890) 545-2638",
@@ -303,10 +281,8 @@ module.exports = [{
         "balance": "$3,078.38",
         "age": 56,
         "eyeColor": "green",
-        "name": {
-            "first": "Gracie",
-            "last": "Grant"
-        },
+        "firstName": "Gracie",
+        "lastName": "Grant",
         "company": "PREMIANT",
         "email": "gracie.grant@premiant.name",
         "phone": "+1 (936) 495-3220",
@@ -330,10 +306,8 @@ module.exports = [{
         "balance": "$1,506.99",
         "age": 33,
         "eyeColor": "green",
-        "name": {
-            "first": "Hope",
-            "last": "Fuentes"
-        },
+        "firstName": "Hope",
+        "lastName": "Fuentes",
         "company": "ECRATER",
         "email": "hope.fuentes@ecrater.info",
         "phone": "+1 (871) 568-3636",
@@ -357,10 +331,8 @@ module.exports = [{
         "balance": "$1,703.00",
         "age": 20,
         "eyeColor": "brown",
-        "name": {
-            "first": "Phoebe",
-            "last": "Harding"
-        },
+        "firstName": "Phoebe",
+        "lastName": "Harding",
         "company": "BILLMED",
         "email": "phoebe.harding@billmed.co.uk",
         "phone": "+1 (886) 408-2479",
@@ -384,10 +356,8 @@ module.exports = [{
         "balance": "$3,428.29",
         "age": 52,
         "eyeColor": "brown",
-        "name": {
-            "first": "Oconnor",
-            "last": "Campos"
-        },
+        "firstName": "Oconnor",
+        "lastName": "Campos",
         "company": "ZILLAN",
         "email": "oconnor.campos@zillan.net",
         "phone": "+1 (928) 557-2017",
@@ -411,10 +381,8 @@ module.exports = [{
         "balance": "$2,498.38",
         "age": 25,
         "eyeColor": "brown",
-        "name": {
-            "first": "Shaffer",
-            "last": "Church"
-        },
+        "firstName": "Shaffer",
+        "lastName": "Church",
         "company": "MEDIFAX",
         "email": "shaffer.church@medifax.biz",
         "phone": "+1 (989) 572-2039",
@@ -438,10 +406,8 @@ module.exports = [{
         "balance": "$3,930.59",
         "age": 31,
         "eyeColor": "blue",
-        "name": {
-            "first": "Langley",
-            "last": "Marks"
-        },
+        "firstName": "Langley",
+        "lastName": "Marks",
         "company": "NEPTIDE",
         "email": "langley.marks@neptide.ca",
         "phone": "+1 (983) 599-2017",
@@ -465,10 +431,8 @@ module.exports = [{
         "balance": "$2,224.22",
         "age": 33,
         "eyeColor": "blue",
-        "name": {
-            "first": "Mcfadden",
-            "last": "Daugherty"
-        },
+        "firstName": "Mcfadden",
+        "lastName": "Daugherty",
         "company": "ZENTILITY",
         "email": "mcfadden.daugherty@zentility.org",
         "phone": "+1 (951) 511-3052",
@@ -492,10 +456,8 @@ module.exports = [{
         "balance": "$2,049.67",
         "age": 36,
         "eyeColor": "blue",
-        "name": {
-            "first": "Caitlin",
-            "last": "Fields"
-        },
+        "firstName": "Caitlin",
+        "lastName": "Fields",
         "company": "DYNO",
         "email": "caitlin.fields@dyno.biz",
         "phone": "+1 (841) 443-3222",
@@ -519,10 +481,8 @@ module.exports = [{
         "balance": "$2,547.26",
         "age": 38,
         "eyeColor": "blue",
-        "name": {
-            "first": "Abby",
-            "last": "Rosales"
-        },
+        "firstName": "Abby",
+        "lastName": "Rosales",
         "company": "LUDAK",
         "email": "abby.rosales@ludak.me",
         "phone": "+1 (987) 582-2274",
@@ -546,10 +506,8 @@ module.exports = [{
         "balance": "$1,799.38",
         "age": 59,
         "eyeColor": "blue",
-        "name": {
-            "first": "Marshall",
-            "last": "Tyler"
-        },
+        "firstName": "Marshall",
+        "lastName": "Tyler",
         "company": "COMCUBINE",
         "email": "marshall.tyler@comcubine.tv",
         "phone": "+1 (862) 558-2530",
@@ -573,10 +531,8 @@ module.exports = [{
         "balance": "$3,951.59",
         "age": 35,
         "eyeColor": "green",
-        "name": {
-            "first": "Cervantes",
-            "last": "Levy"
-        },
+        "firstName": "Cervantes",
+        "lastName": "Levy",
         "company": "GOKO",
         "email": "cervantes.levy@goko.us",
         "phone": "+1 (819) 541-3210",
@@ -600,10 +556,8 @@ module.exports = [{
         "balance": "$1,463.68",
         "age": 68,
         "eyeColor": "brown",
-        "name": {
-            "first": "Jillian",
-            "last": "Bass"
-        },
+        "firstName": "Jillian",
+        "lastName": "Bass",
         "company": "PAWNAGRA",
         "email": "jillian.bass@pawnagra.com",
         "phone": "+1 (891) 534-2579",
@@ -627,10 +581,8 @@ module.exports = [{
         "balance": "$1,779.45",
         "age": 51,
         "eyeColor": "green",
-        "name": {
-            "first": "Maude",
-            "last": "Copeland"
-        },
+        "firstName": "Maude",
+        "lastName": "Copeland",
         "company": "PRISMATIC",
         "email": "maude.copeland@prismatic.name",
         "phone": "+1 (901) 448-3545",
@@ -654,10 +606,8 @@ module.exports = [{
         "balance": "$1,641.76",
         "age": 34,
         "eyeColor": "green",
-        "name": {
-            "first": "Walsh",
-            "last": "Wiggins"
-        },
+        "firstName": "Walsh",
+        "lastName": "Wiggins",
         "company": "BESTO",
         "email": "walsh.wiggins@besto.info",
         "phone": "+1 (977) 454-3682",
@@ -681,10 +631,8 @@ module.exports = [{
         "balance": "$2,256.70",
         "age": 50,
         "eyeColor": "green",
-        "name": {
-            "first": "Roach",
-            "last": "Greene"
-        },
+        "firstName": "Roach",
+        "lastName": "Greene",
         "company": "VIASIA",
         "email": "roach.greene@viasia.co.uk",
         "phone": "+1 (836) 481-3703",
@@ -708,10 +656,8 @@ module.exports = [{
         "balance": "$1,481.62",
         "age": 70,
         "eyeColor": "blue",
-        "name": {
-            "first": "Goff",
-            "last": "Black"
-        },
+        "firstName": "Goff",
+        "lastName": "Black",
         "company": "KONGENE",
         "email": "goff.black@kongene.net",
         "phone": "+1 (843) 459-2589",
@@ -735,10 +681,8 @@ module.exports = [{
         "balance": "$3,174.43",
         "age": 65,
         "eyeColor": "brown",
-        "name": {
-            "first": "Rosa",
-            "last": "Rogers"
-        },
+        "firstName": "Rosa",
+        "lastName": "Rogers",
         "company": "ORBOID",
         "email": "rosa.rogers@orboid.biz",
         "phone": "+1 (973) 453-2371",
@@ -762,10 +706,8 @@ module.exports = [{
         "balance": "$1,932.78",
         "age": 53,
         "eyeColor": "green",
-        "name": {
-            "first": "Stout",
-            "last": "Deleon"
-        },
+        "firstName": "Stout",
+        "lastName": "Deleon",
         "company": "PHEAST",
         "email": "stout.deleon@pheast.ca",
         "phone": "+1 (823) 538-2050",
@@ -789,10 +731,8 @@ module.exports = [{
         "balance": "$3,841.91",
         "age": 27,
         "eyeColor": "brown",
-        "name": {
-            "first": "Gordon",
-            "last": "Scott"
-        },
+        "firstName": "Gordon",
+        "lastName": "Scott",
         "company": "FROLIX",
         "email": "gordon.scott@frolix.org",
         "phone": "+1 (808) 454-3714",
@@ -816,10 +756,8 @@ module.exports = [{
         "balance": "$1,201.37",
         "age": 42,
         "eyeColor": "green",
-        "name": {
-            "first": "Alexis",
-            "last": "Kramer"
-        },
+        "firstName": "Alexis",
+        "lastName": "Kramer",
         "company": "QUINEX",
         "email": "alexis.kramer@quinex.biz",
         "phone": "+1 (875) 580-2489",
@@ -843,10 +781,8 @@ module.exports = [{
         "balance": "$3,076.02",
         "age": 34,
         "eyeColor": "brown",
-        "name": {
-            "first": "Jeannie",
-            "last": "Stephens"
-        },
+        "firstName": "Jeannie",
+        "lastName": "Stephens",
         "company": "PUSHCART",
         "email": "jeannie.stephens@pushcart.me",
         "phone": "+1 (805) 470-2576",
@@ -870,10 +806,8 @@ module.exports = [{
         "balance": "$1,916.67",
         "age": 58,
         "eyeColor": "blue",
-        "name": {
-            "first": "Warner",
-            "last": "Hernandez"
-        },
+        "firstName": "Warner",
+        "lastName": "Hernandez",
         "company": "OLYMPIX",
         "email": "warner.hernandez@olympix.tv",
         "phone": "+1 (959) 513-2607",
@@ -897,10 +831,8 @@ module.exports = [{
         "balance": "$3,613.23",
         "age": 68,
         "eyeColor": "brown",
-        "name": {
-            "first": "Mccullough",
-            "last": "Wall"
-        },
+        "firstName": "Mccullough",
+        "lastName": "Wall",
         "company": "EXODOC",
         "email": "mccullough.wall@exodoc.us",
         "phone": "+1 (842) 497-3565",
@@ -924,10 +856,8 @@ module.exports = [{
         "balance": "$2,455.82",
         "age": 52,
         "eyeColor": "brown",
-        "name": {
-            "first": "Petty",
-            "last": "Hobbs"
-        },
+        "firstName": "Petty",
+        "lastName": "Hobbs",
         "company": "EXIAND",
         "email": "petty.hobbs@exiand.com",
         "phone": "+1 (978) 541-2997",
@@ -951,10 +881,8 @@ module.exports = [{
         "balance": "$3,170.72",
         "age": 21,
         "eyeColor": "green",
-        "name": {
-            "first": "Holt",
-            "last": "Cruz"
-        },
+        "firstName": "Holt",
+        "lastName": "Cruz",
         "company": "HOPELI",
         "email": "holt.cruz@hopeli.name",
         "phone": "+1 (871) 438-2688",
@@ -978,10 +906,8 @@ module.exports = [{
         "balance": "$2,172.25",
         "age": 68,
         "eyeColor": "green",
-        "name": {
-            "first": "Lillian",
-            "last": "Atkinson"
-        },
+        "firstName": "Lillian",
+        "lastName": "Atkinson",
         "company": "DOGTOWN",
         "email": "lillian.atkinson@dogtown.info",
         "phone": "+1 (811) 466-3486",
@@ -1005,10 +931,8 @@ module.exports = [{
         "balance": "$3,706.60",
         "age": 21,
         "eyeColor": "green",
-        "name": {
-            "first": "Eloise",
-            "last": "Serrano"
-        },
+        "firstName": "Eloise",
+        "lastName": "Serrano",
         "company": "ZYTRAC",
         "email": "eloise.serrano@zytrac.co.uk",
         "phone": "+1 (817) 433-2423",
@@ -1032,10 +956,8 @@ module.exports = [{
         "balance": "$3,359.62",
         "age": 66,
         "eyeColor": "blue",
-        "name": {
-            "first": "Susie",
-            "last": "Combs"
-        },
+        "firstName": "Susie",
+        "lastName": "Combs",
         "company": "ISONUS",
         "email": "susie.combs@isonus.net",
         "phone": "+1 (885) 480-3553",
@@ -1059,10 +981,8 @@ module.exports = [{
         "balance": "$1,754.13",
         "age": 23,
         "eyeColor": "blue",
-        "name": {
-            "first": "Bradford",
-            "last": "Guthrie"
-        },
+        "firstName": "Bradford",
+        "lastName": "Guthrie",
         "company": "COMBOGEN",
         "email": "bradford.guthrie@combogen.biz",
         "phone": "+1 (874) 589-2990",
@@ -1086,10 +1006,8 @@ module.exports = [{
         "balance": "$3,514.01",
         "age": 28,
         "eyeColor": "blue",
-        "name": {
-            "first": "Kathie",
-            "last": "Hill"
-        },
+        "firstName": "Kathie",
+        "lastName": "Hill",
         "company": "PHORMULA",
         "email": "kathie.hill@phormula.ca",
         "phone": "+1 (921) 572-3174",
@@ -1113,10 +1031,8 @@ module.exports = [{
         "balance": "$2,505.40",
         "age": 35,
         "eyeColor": "brown",
-        "name": {
-            "first": "Marilyn",
-            "last": "Gibbs"
-        },
+        "firstName": "Marilyn",
+        "lastName": "Gibbs",
         "company": "MIXERS",
         "email": "marilyn.gibbs@mixers.org",
         "phone": "+1 (968) 477-2985",
@@ -1140,10 +1056,8 @@ module.exports = [{
         "balance": "$1,243.70",
         "age": 60,
         "eyeColor": "blue",
-        "name": {
-            "first": "April",
-            "last": "Martin"
-        },
+        "firstName": "April",
+        "lastName": "Martin",
         "company": "VENOFLEX",
         "email": "april.martin@venoflex.biz",
         "phone": "+1 (856) 560-2053",
@@ -1167,10 +1081,8 @@ module.exports = [{
         "balance": "$2,755.99",
         "age": 52,
         "eyeColor": "brown",
-        "name": {
-            "first": "Gretchen",
-            "last": "Ingram"
-        },
+        "firstName": "Gretchen",
+        "lastName": "Ingram",
         "company": "COMSTRUCT",
         "email": "gretchen.ingram@comstruct.me",
         "phone": "+1 (968) 507-3214",
@@ -1194,10 +1106,8 @@ module.exports = [{
         "balance": "$3,460.39",
         "age": 53,
         "eyeColor": "blue",
-        "name": {
-            "first": "Gloria",
-            "last": "Bowman"
-        },
+        "firstName": "Gloria",
+        "lastName": "Bowman",
         "company": "PLASMOSIS",
         "email": "gloria.bowman@plasmosis.tv",
         "phone": "+1 (922) 469-2786",
@@ -1221,10 +1131,8 @@ module.exports = [{
         "balance": "$3,876.91",
         "age": 54,
         "eyeColor": "blue",
-        "name": {
-            "first": "Lorraine",
-            "last": "Burton"
-        },
+        "firstName": "Lorraine",
+        "lastName": "Burton",
         "company": "BIOHAB",
         "email": "lorraine.burton@biohab.us",
         "phone": "+1 (994) 404-3434",
@@ -1248,10 +1156,8 @@ module.exports = [{
         "balance": "$1,367.29",
         "age": 32,
         "eyeColor": "green",
-        "name": {
-            "first": "Toni",
-            "last": "Shannon"
-        },
+        "firstName": "Toni",
+        "lastName": "Shannon",
         "company": "DUFLEX",
         "email": "toni.shannon@duflex.com",
         "phone": "+1 (889) 501-3651",
@@ -1275,10 +1181,8 @@ module.exports = [{
         "balance": "$1,808.76",
         "age": 52,
         "eyeColor": "blue",
-        "name": {
-            "first": "Franklin",
-            "last": "Osborn"
-        },
+        "firstName": "Franklin",
+        "lastName": "Osborn",
         "company": "COMTEST",
         "email": "franklin.osborn@comtest.name",
         "phone": "+1 (834) 517-3307",
@@ -1302,10 +1206,8 @@ module.exports = [{
         "balance": "$1,304.22",
         "age": 37,
         "eyeColor": "green",
-        "name": {
-            "first": "Antonia",
-            "last": "Crosby"
-        },
+        "firstName": "Antonia",
+        "lastName": "Crosby",
         "company": "ZEAM",
         "email": "antonia.crosby@zeam.info",
         "phone": "+1 (940) 538-3464",
@@ -1329,10 +1231,8 @@ module.exports = [{
         "balance": "$1,477.94",
         "age": 53,
         "eyeColor": "green",
-        "name": {
-            "first": "Chris",
-            "last": "Burt"
-        },
+        "firstName": "Chris",
+        "lastName": "Burt",
         "company": "POLARAX",
         "email": "chris.burt@polarax.co.uk",
         "phone": "+1 (932) 462-2331",
@@ -1356,10 +1256,8 @@ module.exports = [{
         "balance": "$3,475.77",
         "age": 39,
         "eyeColor": "green",
-        "name": {
-            "first": "Frank",
-            "last": "Stafford"
-        },
+        "firstName": "Frank",
+        "lastName": "Stafford",
         "company": "GRONK",
         "email": "frank.stafford@gronk.net",
         "phone": "+1 (958) 479-2531",
@@ -1383,10 +1281,8 @@ module.exports = [{
         "balance": "$1,034.21",
         "age": 27,
         "eyeColor": "blue",
-        "name": {
-            "first": "Evangelina",
-            "last": "Owen"
-        },
+        "firstName": "Evangelina",
+        "lastName": "Owen",
         "company": "SYNKGEN",
         "email": "evangelina.owen@synkgen.biz",
         "phone": "+1 (981) 479-2174",
@@ -1410,10 +1306,8 @@ module.exports = [{
         "balance": "$3,300.88",
         "age": 40,
         "eyeColor": "blue",
-        "name": {
-            "first": "Bullock",
-            "last": "Fox"
-        },
+        "firstName": "Bullock",
+        "lastName": "Fox",
         "company": "COMTOUR",
         "email": "bullock.fox@comtour.ca",
         "phone": "+1 (940) 412-3470",
@@ -1437,10 +1331,8 @@ module.exports = [{
         "balance": "$1,498.30",
         "age": 35,
         "eyeColor": "brown",
-        "name": {
-            "first": "Keller",
-            "last": "Orr"
-        },
+        "firstName": "Keller",
+        "lastName": "Orr",
         "company": "SATIANCE",
         "email": "keller.orr@satiance.org",
         "phone": "+1 (985) 598-3782",
@@ -1457,17 +1349,15 @@ module.exports = [{
         ]
     },
     {
-        "_id": 9848,
+        "_id": 9849,
         "agent_id": 467,
         "guid": "22f3b594-b9cd-4a83-a35b-4cb70ef72d54",
         "isActive": false,
         "balance": "$3,030.40",
         "age": 46,
         "eyeColor": "blue",
-        "name": {
-            "first": "Preston",
-            "last": "Gould"
-        },
+        "firstName": "Preston",
+        "lastName": "Gould",
         "company": "INTRAWEAR",
         "email": "preston.gould@intrawear.biz",
         "phone": "+1 (901) 453-3706",
@@ -1491,10 +1381,8 @@ module.exports = [{
         "balance": "$2,364.61",
         "age": 48,
         "eyeColor": "green",
-        "name": {
-            "first": "Ernestine",
-            "last": "Phillips"
-        },
+        "firstName": "Ernestine",
+        "lastName": "Phillips",
         "company": "SYNTAC",
         "email": "ernestine.phillips@syntac.me",
         "phone": "+1 (832) 441-2031",
@@ -1518,10 +1406,8 @@ module.exports = [{
         "balance": "$3,571.13",
         "age": 63,
         "eyeColor": "blue",
-        "name": {
-            "first": "Guadalupe",
-            "last": "Pate"
-        },
+        "firstName": "Guadalupe",
+        "lastName": "Pate",
         "company": "MICRONAUT",
         "email": "guadalupe.pate@micronaut.tv",
         "phone": "+1 (991) 403-2461",
@@ -1545,10 +1431,8 @@ module.exports = [{
         "balance": "$3,228.02",
         "age": 45,
         "eyeColor": "green",
-        "name": {
-            "first": "Abigail",
-            "last": "Thomas"
-        },
+        "firstName": "Abigail",
+        "lastName": "Thomas",
         "company": "STRALOY",
         "email": "abigail.thomas@straloy.us",
         "phone": "+1 (994) 426-3814",
@@ -1572,10 +1456,8 @@ module.exports = [{
         "balance": "$1,123.26",
         "age": 47,
         "eyeColor": "blue",
-        "name": {
-            "first": "Rosanne",
-            "last": "Rowland"
-        },
+        "firstName": "Rosanne",
+        "lastName": "Rowland",
         "company": "HAIRPORT",
         "email": "rosanne.rowland@hairport.com",
         "phone": "+1 (910) 570-2857",
@@ -1599,10 +1481,8 @@ module.exports = [{
         "balance": "$2,190.41",
         "age": 42,
         "eyeColor": "blue",
-        "name": {
-            "first": "Fulton",
-            "last": "Hatfield"
-        },
+        "firstName": "Fulton",
+        "lastName": "Hatfield",
         "company": "ACIUM",
         "email": "fulton.hatfield@acium.name",
         "phone": "+1 (836) 534-2204",
@@ -1626,10 +1506,8 @@ module.exports = [{
         "balance": "$3,361.96",
         "age": 36,
         "eyeColor": "blue",
-        "name": {
-            "first": "Ericka",
-            "last": "Morrow"
-        },
+        "firstName": "Ericka",
+        "lastName": "Morrow",
         "company": "IMKAN",
         "email": "ericka.morrow@imkan.info",
         "phone": "+1 (991) 427-2244",
@@ -1653,10 +1531,8 @@ module.exports = [{
         "balance": "$2,770.19",
         "age": 69,
         "eyeColor": "green",
-        "name": {
-            "first": "Daniels",
-            "last": "Hunter"
-        },
+        "firstName": "Daniels",
+        "lastName": "Hunter",
         "company": "EPLOSION",
         "email": "daniels.hunter@eplosion.co.uk",
         "phone": "+1 (835) 444-2099",
@@ -1680,10 +1556,8 @@ module.exports = [{
         "balance": "$2,147.05",
         "age": 65,
         "eyeColor": "green",
-        "name": {
-            "first": "Hensley",
-            "last": "Zamora"
-        },
+        "firstName": "Hensley",
+        "lastName": "Zamora",
         "company": "WEBIOTIC",
         "email": "hensley.zamora@webiotic.net",
         "phone": "+1 (918) 505-2579",
@@ -1707,10 +1581,8 @@ module.exports = [{
         "balance": "$3,252.27",
         "age": 37,
         "eyeColor": "blue",
-        "name": {
-            "first": "Trisha",
-            "last": "Mejia"
-        },
+        "firstName": "Trisha",
+        "lastName": "Mejia",
         "company": "EXOTECHNO",
         "email": "trisha.mejia@exotechno.biz",
         "phone": "+1 (937) 567-2488",
@@ -1734,10 +1606,8 @@ module.exports = [{
         "balance": "$2,113.94",
         "age": 70,
         "eyeColor": "blue",
-        "name": {
-            "first": "Elma",
-            "last": "Lamb"
-        },
+        "firstName": "Elma",
+        "lastName": "Lamb",
         "company": "XEREX",
         "email": "elma.lamb@xerex.ca",
         "phone": "+1 (934) 477-2330",
@@ -1761,10 +1631,8 @@ module.exports = [{
         "balance": "$3,889.50",
         "age": 39,
         "eyeColor": "brown",
-        "name": {
-            "first": "Elisabeth",
-            "last": "Roberson"
-        },
+        "firstName": "Elisabeth",
+        "lastName": "Roberson",
         "company": "ZOUNDS",
         "email": "elisabeth.roberson@zounds.org",
         "phone": "+1 (811) 480-3816",
@@ -1788,10 +1656,8 @@ module.exports = [{
         "balance": "$1,367.64",
         "age": 67,
         "eyeColor": "brown",
-        "name": {
-            "first": "Woodward",
-            "last": "Justice"
-        },
+        "firstName": "Woodward",
+        "lastName": "Justice",
         "company": "MOREGANIC",
         "email": "woodward.justice@moreganic.biz",
         "phone": "+1 (984) 548-3242",
@@ -1815,10 +1681,8 @@ module.exports = [{
         "balance": "$3,590.96",
         "age": 24,
         "eyeColor": "green",
-        "name": {
-            "first": "Shields",
-            "last": "Knowles"
-        },
+        "firstName": "Shields",
+        "lastName": "Knowles",
         "company": "QUIZMO",
         "email": "shields.knowles@quizmo.me",
         "phone": "+1 (970) 546-2778",
@@ -1842,10 +1706,8 @@ module.exports = [{
         "balance": "$2,743.62",
         "age": 47,
         "eyeColor": "blue",
-        "name": {
-            "first": "Mindy",
-            "last": "Anderson"
-        },
+        "firstName": "Mindy",
+        "lastName": "Anderson",
         "company": "QUILTIGEN",
         "email": "mindy.anderson@quiltigen.tv",
         "phone": "+1 (989) 434-2106",
@@ -1869,10 +1731,8 @@ module.exports = [{
         "balance": "$3,251.85",
         "age": 47,
         "eyeColor": "brown",
-        "name": {
-            "first": "Amalia",
-            "last": "Golden"
-        },
+        "firstName": "Amalia",
+        "lastName": "Golden",
         "company": "LETPRO",
         "email": "amalia.golden@letpro.us",
         "phone": "+1 (897) 540-3041",
@@ -1896,10 +1756,8 @@ module.exports = [{
         "balance": "$1,291.17",
         "age": 38,
         "eyeColor": "brown",
-        "name": {
-            "first": "Diann",
-            "last": "Woodard"
-        },
+        "firstName": "Diann",
+        "lastName": "Woodard",
         "company": "KONGLE",
         "email": "diann.woodard@kongle.com",
         "phone": "+1 (851) 454-3720",
@@ -1923,10 +1781,8 @@ module.exports = [{
         "balance": "$3,492.48",
         "age": 68,
         "eyeColor": "blue",
-        "name": {
-            "first": "Evans",
-            "last": "Kaufman"
-        },
+        "firstName": "Evans",
+        "lastName": "Kaufman",
         "company": "ZYTRAX",
         "email": "evans.kaufman@zytrax.name",
         "phone": "+1 (935) 561-2793",
@@ -1950,10 +1806,8 @@ module.exports = [{
         "balance": "$1,253.66",
         "age": 51,
         "eyeColor": "green",
-        "name": {
-            "first": "Irma",
-            "last": "Roman"
-        },
+        "firstName": "Irma",
+        "lastName": "Roman",
         "company": "BEADZZA",
         "email": "irma.roman@beadzza.info",
         "phone": "+1 (934) 443-2067",
@@ -1977,10 +1831,8 @@ module.exports = [{
         "balance": "$1,892.16",
         "age": 57,
         "eyeColor": "brown",
-        "name": {
-            "first": "Harmon",
-            "last": "Bray"
-        },
+        "firstName": "Harmon",
+        "lastName": "Bray",
         "company": "INTERGEEK",
         "email": "harmon.bray@intergeek.co.uk",
         "phone": "+1 (916) 415-3937",
@@ -2004,10 +1856,8 @@ module.exports = [{
         "balance": "$1,380.87",
         "age": 67,
         "eyeColor": "brown",
-        "name": {
-            "first": "Jaime",
-            "last": "Chambers"
-        },
+        "firstName": "Jaime",
+        "lastName": "Chambers",
         "company": "QUAREX",
         "email": "jaime.chambers@quarex.net",
         "phone": "+1 (886) 427-2707",
@@ -2031,10 +1881,8 @@ module.exports = [{
         "balance": "$2,696.51",
         "age": 22,
         "eyeColor": "blue",
-        "name": {
-            "first": "Deloris",
-            "last": "Garrison"
-        },
+        "firstName": "Deloris",
+        "lastName": "Garrison",
         "company": "HARMONEY",
         "email": "deloris.garrison@harmoney.biz",
         "phone": "+1 (901) 462-3257",
@@ -2058,10 +1906,8 @@ module.exports = [{
         "balance": "$1,933.48",
         "age": 31,
         "eyeColor": "brown",
-        "name": {
-            "first": "Marsha",
-            "last": "George"
-        },
+        "firstName": "Marsha",
+        "lastName": "George",
         "company": "DOGNOSIS",
         "email": "marsha.george@dognosis.ca",
         "phone": "+1 (824) 479-2374",
@@ -2085,10 +1931,8 @@ module.exports = [{
         "balance": "$3,088.13",
         "age": 32,
         "eyeColor": "brown",
-        "name": {
-            "first": "Graves",
-            "last": "Briggs"
-        },
+        "firstName": "Graves",
+        "lastName": "Briggs",
         "company": "UNIWORLD",
         "email": "graves.briggs@uniworld.org",
         "phone": "+1 (829) 537-3632",
@@ -2112,10 +1956,8 @@ module.exports = [{
         "balance": "$2,657.47",
         "age": 33,
         "eyeColor": "green",
-        "name": {
-            "first": "Solis",
-            "last": "Decker"
-        },
+        "firstName": "Solis",
+        "lastName": "Decker",
         "company": "VALPREAL",
         "email": "solis.decker@valpreal.biz",
         "phone": "+1 (992) 542-2711",

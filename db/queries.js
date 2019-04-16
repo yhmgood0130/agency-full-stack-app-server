@@ -2,21 +2,33 @@ const knex = require ('./knex')
 
 module.exports = {
   getAgents: function() {
-    return knex('agents').select();
+    return knex('agent').select();
   },
-  getCustomers: agentId => {
-    return knex('customers').select().where('agent_id',agentId)
+  getAgentById: function(agentId) {
+    return knex('agent').select().where('_id',agentId);
+  },
+  getCustomers: function() {
+    return knex('customer').select();
+  },
+  getCustomerById: customerId => {
+    return knex('customer').select().where('_id',customerId)
+  },
+  getCustomersByAgentId: agentId => {
+    return knex('customer').select().where('agent_id',agentId)
   },
   addAgent: function(agent){
-    return knex('agents').insert(agent,'*');
+    return knex('agent').insert(agent,'*');
   },
   addCustomer: function(customer){
-    return knex('customers').insert(customer,'*');
+    return knex('customer').insert(customer,'*');
+  },
+  modifyAgent: function(agentId,updateInfo){
+    return knex('agent').where('_id',agentId).update(updateInfo)
   },
   modifyCustomer: function(customerId,updateInfo){
-    return knex('customers').where('id',customerId).update(updateInfo)
+    return knex('customer').where('_id',customerId).update(updateInfo)
   },
   deleteCustomer: function(customerId){
-    return knex('customers').where('id',customerId).del();
+    return knex('customer').where('_id',customerId).del();
   }
 }
