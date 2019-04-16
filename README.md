@@ -16,7 +16,11 @@ For Windows, I was able to have an access to PostgreSQL by running 'psql -h loca
 
 Once you are successfully running and having an accesss to PostgreSQL,
 
-Run
+Create database agency in PostgreSQL 
+
+'CREATE DATABASE agency;' and
+
+Run these two lines of code.
 
 knex migrate:latest
 
@@ -34,4 +38,4 @@ npm i -g nodemon
 
 and
 
-run nodemon on CMD
+run 'nodemon' on CMD
