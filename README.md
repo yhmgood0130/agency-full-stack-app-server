@@ -8,6 +8,10 @@ npm install
 
 npm install -g knex
 
+### Operating System
+
+Windows 10
+
 ## Set up the PostgreSQL
 
 If you don't have PostgreSQL installed and set up, it will require extra steps depending on the OS System. (Mainly it will be creating the user, setting up the role, and resetting the password).
