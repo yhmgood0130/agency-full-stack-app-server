@@ -22,7 +22,7 @@ module.exports = {
   addCustomer: function(customer){
     return knex('customer').insert(customer,'*');
   },
-  modifyAgent: function(agentId,updateInfo){
+  modifyAgent: function(updateInfo,agentId){
     return knex('agent').where('_id',agentId).update(updateInfo)
   },
   modifyCustomer: function(customerId,updateInfo){
